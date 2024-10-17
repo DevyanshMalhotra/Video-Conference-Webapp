@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## TechStack:
 
 NodeJS, Socket.io, and Peerjs(WebRTC)
